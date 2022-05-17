@@ -23,8 +23,12 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="YOUR_API_KEY" />
+            android:value="YAIzaSyBXY7MkkcC4efNWpye8C90nSsxnnfORlWU" />
 
+        <activity
+            android:name=".LugaresAntiguos"
+            android:exported="false"
+            android:label="@string/title_activity_lugares_antiguos" />
         <activity
             android:name=".LugaresModernos"
             android:exported="false"

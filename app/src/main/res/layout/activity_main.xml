@@ -16,7 +16,7 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="20"
-            tools:srcCompat="@drawable/mapidraw" />
+            android:src="@drawable/mapidraw" />
 
         <Button
             android:id="@+id/btn1"
@@ -29,29 +29,16 @@
             style="@style/buttonMain"
             android:id="@+id/btn2"
             android:layout_width="match_parent"
-            android:text="Maravillas Antiguas de Cusco"
+            android:text="Maravillas Modernas de Cusco"
              />
 
         <Button
             style="@style/buttonMain"
             android:id="@+id/btn3"
             android:layout_width="match_parent"
-            android:text="Maravillas Modernas del Cusco"
+            android:text="Maravillas Antiguas  del Cusco"
              />
 
-        <Button
-            style="@style/buttonMain"
-            android:id="@+id/btn4"
-            android:layout_width="match_parent"
-            android:text="Let me eat"
-            />
-
-        <Button
-            style="@style/buttonMain"
-            android:id="@+id/btn5"
-            android:layout_width="match_parent"
-            android:text="Beer? Where..."
-            />
     </LinearLayout>
 
 
