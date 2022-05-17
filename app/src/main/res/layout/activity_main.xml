@@ -29,14 +29,14 @@
             style="@style/buttonMain"
             android:id="@+id/btn2"
             android:layout_width="match_parent"
-            android:text="Maravillas Modernas de Cusco"
+            android:text="Maravillas Modernas"
              />
 
         <Button
             style="@style/buttonMain"
             android:id="@+id/btn3"
             android:layout_width="match_parent"
-            android:text="Maravillas Antiguas  del Cusco"
+            android:text="Maravillas Antiguas"
              />
 
     </LinearLayout>
